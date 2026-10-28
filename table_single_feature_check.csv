@@ -1,0 +1,16 @@
+Dataset,Feature,SingleFeatureCVAccuracy
+D1_UCI,sslfinal_state,88.88
+D1_UCI,url_of_anchor,84.82
+D1_UCI,web_traffic,69.72
+D1_UCI,having_sub_domain,66.39
+D1_UCI,request_url,63.42
+D2_Mendeley,google_index,86.59
+D2_Mendeley,web_traffic,78.83
+D2_Mendeley,page_rank,77.01
+D2_Mendeley,nb_hyperlinks,76.91
+D2_Mendeley,ratio_extHyperlinks,75.1
+D3_PhiUSIIL,URLSimilarityIndex,99.66
+D3_PhiUSIIL,NoOfExternalRef,96.05
+D3_PhiUSIIL,LineOfCode,95.8
+D3_PhiUSIIL,NoOfSelfRef,94.8
+D3_PhiUSIIL,NoOfImage,93.9

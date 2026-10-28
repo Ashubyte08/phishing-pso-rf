@@ -1,0 +1,4 @@
+Dataset,RawRows,FeaturesUsed,Phishing,Legitimate,RowsUsed,DuplicateFeatureRows,DuplicateRowsInSample
+D1_UCI,11055,30,4898,6157,10000,5270,4525
+D2_Mendeley,11430,81,5715,5715,10000,174,136
+D3_PhiUSIIL,235795,50,100945,134850,10000,808,3

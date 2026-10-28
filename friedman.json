@@ -1,0 +1,7 @@
+{
+  "chi2": 14.341463414634147,
+  "p": 0.026045918684159966,
+  "N_datasets": 3,
+  "k": 7,
+  "note": "Blocks are datasets; with N=3 the test has low power and no post-hoc test is applied."
+}

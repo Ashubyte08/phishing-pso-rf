@@ -1,0 +1,8 @@
+Classifier,MeanRank,Rank D1_UCI,Rank D2_Mendeley,Rank D3_PhiUSIIL
+GB,1.67,2.0,1.0,2.0
+RF,2.33,3.0,2.0,2.0
+ET,2.67,1.0,3.0,4.0
+DT,4.0,4.0,6.0,2.0
+LR,5.0,6.0,4.0,5.0
+KNN,5.33,5.0,5.0,6.0
+NB,7.0,7.0,7.0,7.0

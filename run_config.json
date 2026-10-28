@@ -1,0 +1,21 @@
+{
+  "particles": 8,
+  "iters": 12,
+  "alpha": 0.99,
+  "folds": 5,
+  "rob_folds": 3,
+  "max_rows": 10000,
+  "fit_rows": 1000,
+  "deploy_runs": 1,
+  "seed": 42,
+  "n_jobs": -1,
+  "skip_robustness": false,
+  "smoke": false,
+  "synthetic": false,
+  "out": "results_v2",
+  "python": "3.12.0",
+  "sklearn": "1.9.1",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "finished": "2026-10-11 16:44:58",
+  "design": "nested CV: PSO inside each outer training fold"
+}

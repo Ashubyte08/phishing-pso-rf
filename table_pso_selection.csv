@@ -1,0 +1,4 @@
+Dataset,D,k (mean ± sd),k range,Reduction_%,PSO time per fold (s)
+D1_UCI,30,18.2 ± 2.4,14-20,39.3,38.260000000000005
+D2_Mendeley,81,44.0 ± 4.5,39-51,45.7,21.02
+D3_PhiUSIIL,50,15.4 ± 3.2,12-20,69.2,20.4

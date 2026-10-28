@@ -1,0 +1,70 @@
+[
+  {
+    "Dataset": "D1_UCI",
+    "RawRows": 11055,
+    "RawColumns": 31,
+    "Target": "result",
+    "TextColumnsDropped": [],
+    "ConstantColumnsDropped": [],
+    "MissingValues": 0,
+    "FeaturesUsed": 30,
+    "Phishing": 4898,
+    "Legitimate": 6157,
+    "DuplicateFeatureRows": 5270,
+    "DuplicateRowsWithConflictingLabels": 64,
+    "RowsUsed": 10000,
+    "PhishingUsed": 4431,
+    "LegitimateUsed": 5569,
+    "DuplicateRowsInSample": 4525
+  },
+  {
+    "Dataset": "D2_Mendeley",
+    "RawRows": 11430,
+    "RawColumns": 89,
+    "Target": "status",
+    "TextColumnsDropped": [
+      "url"
+    ],
+    "ConstantColumnsDropped": [
+      "nb_or",
+      "ratio_nullHyperlinks",
+      "ratio_intRedirection",
+      "ratio_intErrors",
+      "submit_email",
+      "sfh"
+    ],
+    "MissingValues": 0,
+    "FeaturesUsed": 81,
+    "Phishing": 5715,
+    "Legitimate": 5715,
+    "DuplicateFeatureRows": 174,
+    "DuplicateRowsWithConflictingLabels": 0,
+    "RowsUsed": 10000,
+    "PhishingUsed": 5000,
+    "LegitimateUsed": 5000,
+    "DuplicateRowsInSample": 136
+  },
+  {
+    "Dataset": "D3_PhiUSIIL",
+    "RawRows": 235795,
+    "RawColumns": 55,
+    "Target": "label",
+    "TextColumnsDropped": [
+      "URL",
+      "Domain",
+      "TLD",
+      "Title"
+    ],
+    "ConstantColumnsDropped": [],
+    "MissingValues": 0,
+    "FeaturesUsed": 50,
+    "Phishing": 100945,
+    "Legitimate": 134850,
+    "DuplicateFeatureRows": 808,
+    "DuplicateRowsWithConflictingLabels": 0,
+    "RowsUsed": 10000,
+    "PhishingUsed": 4281,
+    "LegitimateUsed": 5719,
+    "DuplicateRowsInSample": 3
+  }
+]
